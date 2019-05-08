@@ -1,0 +1,4 @@
+https://developers.google.com/maps/documentation/directions/intro
+
+https://developer.amazon.com/docs/custom-skills/standard-built-in-intents.html
+
