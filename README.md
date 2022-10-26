@@ -34,3 +34,7 @@ N/A
 * [Machine Learning and Data Science with Python: A Complete Beginners Guide [Video]](https://www.packtpub.com/application-development/machine-learning-and-data-science-python-complete-beginners-guide-video)
 
 * [Introduction to MySQL With Node.js - Learn to Use MySQL with Node [Video]](https://www.packtpub.com/application-development/introduction-mysql-nodejs-learn-use-mysql-node-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789534252">https://packt.link/free-ebook/9781789534252 </a> </p>
